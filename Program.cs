@@ -37,11 +37,11 @@ namespace softuniCamp
                 {
                     smallAutobus += nPeople;
                 }
-                else if (nPeople >= 26 && nPeople <= 40)
+                else if (nPeople >= 27 && nPeople <= 40)
                 {
                     bigAutobus += nPeople;
                 }
-                else if (nPeople >=41)
+                else if (nPeople >=45)
                 {
                     train += nPeople;
                 }
