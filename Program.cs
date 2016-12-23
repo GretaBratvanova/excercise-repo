@@ -58,6 +58,11 @@ namespace softuniCamp
 
 
         }
-        Console.WriteLine(  "ihuuuu");
+
+        Console.WriteLine ("Yes");
+
+           
+        }
+
     }
 }
