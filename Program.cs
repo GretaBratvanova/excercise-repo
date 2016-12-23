@@ -58,5 +58,8 @@ namespace softuniCamp
 
 
         }
+        if(joke==6) 
+        {Conseole.WriteLine("Yes");     
+        }
     }
 }
