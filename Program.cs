@@ -60,6 +60,7 @@ namespace softuniCamp
         }
 
         Console.WriteLine ("Yes");
+            dobavi red
 
            
         }
