@@ -19,7 +19,7 @@ namespace softuniCamp
             var total = 0;
 
             var nGroup = int.Parse(Console.ReadLine());
-
+          
             for (int i = 0; i < nGroup; i++)
             {
                 var nPeople = int.Parse(Console.ReadLine());
@@ -29,7 +29,7 @@ namespace softuniCamp
                 {
                     car += nPeople;
                 }
-                else if (nPeople>=6&&nPeople<=12)
+                else if (nPeople>=6 && nPeople<=12)
                 {
                     microbus += nPeople;
                 }
