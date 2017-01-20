@@ -1,1 +1,2 @@
-Insert line in new-file.txt
+Change this file
+Insert in new-file.txt
